@@ -24,7 +24,7 @@ To set up the project:
 
 1. Clone this repository.
 2. Open it in Visual Studio.
-3. Configure PostgreSQL as the database.
+3. run migrations to update database.
 4. Install the required OpenIddict packages using NuGet.
 5. Configure OpenIddict in your ASP.NET Core application.
 6. Run both projects separately after the required configurations (connection string etc.)
