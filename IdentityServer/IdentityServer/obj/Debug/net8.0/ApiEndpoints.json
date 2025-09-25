@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "IdentityServer.Controllers.AuthorizationController",
+    "Method": "Authorize",
+    "RelativePath": "connect/authorize",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityServer.Controllers.AuthorizationController",
+    "Method": "Authorize",
+    "RelativePath": "connect/authorize",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityServer.Controllers.AuthorizationController",
+    "Method": "LogoutPost",
+    "RelativePath": "connect/logout",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityServer.Controllers.AuthorizationController",
+    "Method": "LogoutPost",
+    "RelativePath": "connect/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityServer.Controllers.AuthorizationController",
+    "Method": "Exchange",
+    "RelativePath": "connect/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityServer.Controllers.ExternalCallbackController",
+    "Method": "LogInCallback",
+    "RelativePath": "signin-google",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "returnUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityServer.Controllers.ExternalCallbackController",
+    "Method": "LogInCallback",
+    "RelativePath": "signin-google",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "returnUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

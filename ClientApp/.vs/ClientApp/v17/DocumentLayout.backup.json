@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\webapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\webapi\\extension\\webapplicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\extension\\webapplicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\webapi\\endpoints\\order\\ordermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\endpoints\\order\\ordermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9085B94F-D0B2-4229-8387-5334AF4BE94E}|src\\Infrastructure\\Infrastructure.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\infrastructure\\migrations\\20250923141442_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9085B94F-D0B2-4229-8387-5334AF4BE94E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\migrations\\20250923141442_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9085B94F-D0B2-4229-8387-5334AF4BE94E}|src\\Infrastructure\\Infrastructure.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9085B94F-D0B2-4229-8387-5334AF4BE94E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9085B94F-D0B2-4229-8387-5334AF4BE94E}|src\\Infrastructure\\Infrastructure.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9085B94F-D0B2-4229-8387-5334AF4BE94E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38899E6-65ED-4D15-8252-2FF105754457}|src\\Application\\Application.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\application\\orders\\handlers\\getorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38899E6-65ED-4D15-8252-2FF105754457}|src\\Application\\Application.csproj|solutionrelative:src\\application\\orders\\handlers\\getorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38899E6-65ED-4D15-8252-2FF105754457}|src\\Application\\Application.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\application\\orders\\handlers\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38899E6-65ED-4D15-8252-2FF105754457}|src\\Application\\Application.csproj|solutionrelative:src\\application\\orders\\handlers\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38899E6-65ED-4D15-8252-2FF105754457}|src\\Application\\Application.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\application\\orders\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38899E6-65ED-4D15-8252-2FF105754457}|src\\Application\\Application.csproj|solutionrelative:src\\application\\orders\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38899E6-65ED-4D15-8252-2FF105754457}|src\\Application\\Application.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp\\src\\application\\orders\\commands\\createorderitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38899E6-65ED-4D15-8252-2FF105754457}|src\\Application\\Application.csproj|solutionrelative:src\\application\\orders\\commands\\createorderitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "src\\WebApi\\WebApi.csproj",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "src\\WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T14:24:14.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T14:21:18.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250923141442_start.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Infrastructure\\Migrations\\20250923141442_start.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20250923141442_start.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Infrastructure\\Migrations\\20250923141442_start.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Migrations\\20250923141442_start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:14:42.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:12:58.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetOrderQueryHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Application\\Orders\\Handlers\\GetOrderQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Orders\\Handlers\\GetOrderQueryHandler.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Application\\Orders\\Handlers\\GetOrderQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\Orders\\Handlers\\GetOrderQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:29:00.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Application\\Orders\\Handlers\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Orders\\Handlers\\CreateOrderHandler.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Application\\Orders\\Handlers\\CreateOrderHandler.cs",
+              "RelativeToolTip": "src\\Application\\Orders\\Handlers\\CreateOrderHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:28:57.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateOrderItemCommand.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Application\\Orders\\Commands\\CreateOrderItemCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Orders\\Commands\\CreateOrderItemCommand.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Application\\Orders\\Commands\\CreateOrderItemCommand.cs",
+              "RelativeToolTip": "src\\Application\\Orders\\Commands\\CreateOrderItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:28:54.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Application\\Orders\\Commands\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Orders\\Commands\\CreateOrderCommand.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Application\\Orders\\Commands\\CreateOrderCommand.cs",
+              "RelativeToolTip": "src\\Application\\Orders\\Commands\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:28:43.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderModule.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\Endpoints\\Order\\OrderModule.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Endpoints\\Order\\OrderModule.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\Endpoints\\Order\\OrderModule.cs",
+              "RelativeToolTip": "src\\WebApi\\Endpoints\\Order\\OrderModule.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:28:37.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:22:53.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Program.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\Program.cs",
+              "RelativeToolTip": "src\\WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:26:55.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplicationExtension.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\Extension\\WebApplicationExtension.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Extension\\WebApplicationExtension.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\Extension\\WebApplicationExtension.cs",
+              "RelativeToolTip": "src\\WebApi\\Extension\\WebApplicationExtension.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvw0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:26:50.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\DependencyInjection.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\DependencyInjection.cs*",
+              "RelativeToolTip": "src\\WebApi\\DependencyInjection.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:26:28.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T11:26:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp\\src\\WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T11:26:02.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

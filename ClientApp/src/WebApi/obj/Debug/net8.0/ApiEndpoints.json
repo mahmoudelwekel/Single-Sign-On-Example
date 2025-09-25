@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "WebApi.Endpoints.Order.OrderModule\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRoutes\u003Eb__1_0",
+    "RelativePath": "order/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.Orders.Commands.CreateOrderCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

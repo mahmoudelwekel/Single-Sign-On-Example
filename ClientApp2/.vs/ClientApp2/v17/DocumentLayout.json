@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp2\\src\\webapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp2\\src\\webapi\\extension\\webapplicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\extension\\webapplicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|d:\\projects\\test\\sso1\\identity_service\\clientapp2\\src\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAEC36CB-23F8-49F0-962B-3A2354940FB4}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp2\\src\\WebApi\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\DependencyInjection.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp2\\src\\WebApi\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\WebApi\\DependencyInjection.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvywAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T16:45:40.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplicationExtension.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp2\\src\\WebApi\\Extension\\WebApplicationExtension.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Extension\\WebApplicationExtension.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp2\\src\\WebApi\\Extension\\WebApplicationExtension.cs",
+              "RelativeToolTip": "src\\WebApi\\Extension\\WebApplicationExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T16:44:58.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp2\\src\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\ClientApp2\\src\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T16:41:22.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

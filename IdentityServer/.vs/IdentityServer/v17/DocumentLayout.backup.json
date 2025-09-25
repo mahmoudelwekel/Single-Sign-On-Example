@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\data\\repository\\clientapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\data\\repository\\clientapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\records\\clientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\records\\clientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\pages\\admin\\clients\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\pages\\admin\\clients\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\controllers\\externalcallbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\controllers\\externalcallbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\data\\migrations\\20250923121625_letsstartthisshit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\data\\migrations\\20250923121625_letsstartthisshit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\data\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\data\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|d:\\projects\\test\\sso1\\identity_service\\identityserver\\identityserver\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6233AD3-5574-4530-B23E-AC5B7A203FEE}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "IdentityServer\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "IdentityServer\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T16:14:27.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IdentityServer\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IdentityServer\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T16:14:25.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientRecord.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Records\\ClientRecord.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Records\\ClientRecord.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Records\\ClientRecord.cs",
+              "RelativeToolTip": "IdentityServer\\Records\\ClientRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:43:43.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExternalCallbackController.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Controllers\\ExternalCallbackController.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Controllers\\ExternalCallbackController.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Controllers\\ExternalCallbackController.cs",
+              "RelativeToolTip": "IdentityServer\\Controllers\\ExternalCallbackController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:42:50.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddClient.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Pages\\Admin\\Clients\\AddClient.cshtml",
+              "RelativeDocumentMoniker": "IdentityServer\\Pages\\Admin\\Clients\\AddClient.cshtml",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Pages\\Admin\\Clients\\AddClient.cshtml",
+              "RelativeToolTip": "IdentityServer\\Pages\\Admin\\Clients\\AddClient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T12:31:27.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "IdentityServer\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:18:34.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250923121625_LetsStartThisShit.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Data\\Migrations\\20250923121625_LetsStartThisShit.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Data\\Migrations\\20250923121625_LetsStartThisShit.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Data\\Migrations\\20250923121625_LetsStartThisShit.cs",
+              "RelativeToolTip": "IdentityServer\\Data\\Migrations\\20250923121625_LetsStartThisShit.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:17:51.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IdentityServer.csproj",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
+              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer.csproj",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
+              "RelativeToolTip": "IdentityServer\\IdentityServer.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T12:06:13.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Program.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Program.cs",
+              "RelativeToolTip": "IdentityServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:00:56.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IdentityServer\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\appsettings.Development.json",
+              "RelativeToolTip": "IdentityServer\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T11:53:52.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "IdentityServer\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswDIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:33:19.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityServer\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\appsettings.json",
+              "RelativeToolTip": "IdentityServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T11:30:53.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentityDataSeeder.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Data\\IdentityDataSeeder.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Data\\IdentityDataSeeder.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Data\\IdentityDataSeeder.cs",
+              "RelativeToolTip": "IdentityServer\\Data\\IdentityDataSeeder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:30:42.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientAppRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Data\\Repository\\ClientAppRepository.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Data\\Repository\\ClientAppRepository.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Data\\Repository\\ClientAppRepository.cs",
+              "RelativeToolTip": "IdentityServer\\Data\\Repository\\ClientAppRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAvwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:30:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IdentityServer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:30:15.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityServer\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Pages\\Index.cshtml",
+              "RelativeToolTip": "IdentityServer\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T11:29:48.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Controllers\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Controllers\\AuthorizationController.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\Controllers\\AuthorizationController.cs",
+              "RelativeToolTip": "IdentityServer\\Controllers\\AuthorizationController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAArwFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:29:34.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\AuthorizationService.cs",
+              "ToolTip": "D:\\Projects\\Test\\SSO1\\identity_service\\IdentityServer\\IdentityServer\\AuthorizationService.cs",
+              "RelativeToolTip": "IdentityServer\\AuthorizationService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:24:47.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
